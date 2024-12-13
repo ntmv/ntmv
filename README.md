@@ -2,7 +2,7 @@
 
 My name is Nirupama and I'm a Data Scientist based in Vancouver, Canada 🇨🇦
 
-I recently completed a Master's degree in Statistics at the University of British Columbia. I currently work as a junior data scientist at the BC Center for Disease Control. I am very enthuasiastic about developing scalable statistical and machine learning models or public health, and would love to explore different domains such as gaming, finance, and cybersecurity.👩🏻‍💻
+I currently work as a junior data scientist at the BC Center for Disease Control. I am very enthuasiastic about developing scalable statistical and machine learning models in public health, and would love to explore different domains such as gaming, finance, and cybersecurity.👩🏻‍💻 I completed a Master's degree in Statistics at the University of British Columbia.
 
 ## About Me
 
